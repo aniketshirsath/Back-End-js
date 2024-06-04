@@ -1,0 +1,259 @@
+{
+  "products":[
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1713340895/STILL/M2R/M2R-695U-N22162-43/M2R-695U-N22162-43_20",
+       "title": "Blue Cotton Cross-Stitch Short-Sleeve Shirt",
+       "price": "$175.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712134890/STILL/M1R/M1R-255U-M02138-44/M1R-255U-M02138-44_20",
+       "title": "Slim-Fit Petrol Blue Cotton-Stretch Chinos",
+       "price": "$350.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712916113/MODEL/ECOM/M2S/M2S-JNO02-MCLF-69/M2S-JNO02-MCLF-69_1",
+       "title": "Brown Leather 'Jango' Shoes",
+       "price": "$375.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1709735523/MODEL/ECOM/M2R/M2R-639X-M21648-48/M2R-639X-M21648-48_1",
+       "title": "Navy Cotton Unlined Mac",
+       "price": "$430.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1714039603/MODEL/ECOM/M2R/M2R-695U-M22054-92/M2R-695U-M22054-92_1",
+       "title": "Multicolour Stripe Cotton Shirt",
+       "price": "$175.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1713171740/STILL/M2R/M2R-695U-M22054-92/M2R-695U-M22054-92_10",
+       "title": "Multicolour Stripe Cotton Shirt",
+       "price": "$175.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712134890/STILL/M1R/M1R-255U-M02138-44/M1R-255U-M02138-44_20",
+       "title": "Slim-Fit Petrol Blue Cotton-Stretch Chinos",
+       "price": "$350.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712304150/STILL/M1S/M1S-HAN77-MMOLV-01/M1S-HAN77-MMOLV-01_50",
+       "title": "White Leather 'Hansen' Trainers",
+       "price": "$450.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1710936032/STILL/M1R/M1R-006L-L00811-01/M1R-006L-L00811-01_20",
+       "title": "Slim-Fit White Signature Stripe Cotton Shirt",
+       "price": "$175.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1710936029/STILL/M1R/M1R-006L-L00811-01/M1R-006L-L00811-01_10",
+       "title": "Slim-Fit White 'Signature Stripe' Cotton Shirt",
+       "price": "$365.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712134896/STILL/M1R/M1R-255U-M02138-55/M1R-255U-M02138-55_20",
+       "title": "Slim-Fit Ash Grey Cotton-Stretch Chinos",
+       "price": "$350.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1711476145/STILL/M2S/M2S-MGT05-MNUB-20/M2S-MGT05-MNUB-20_50",
+       "title": "Pink 'Margate' Trainers",
+       "price": "$250.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712734291/STILL/M1R/M1R-800P-N02386-40/M1R-800P-N02386-40_20",
+       "title": "Tailored-Fit Light Blue 'Liberty Floral' Print Shirt",
+       "price": "$325.00"
+   },
+   {
+           "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712223039/STILL/M1R/M1R-150M-N02415-37/M1R-150M-N02415-37_20",
+           "title": "Slim-Fit Slate Blue Check Wool Trousers",
+           "price": "$475.00"
+   },
+   {
+           "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1710838857/STILL/M1A/M1A-0TIE-NT352-40/M1A-0TIE-NT352-40_20",
+           "title": "Sky Blue Mini Dot Silk Tie",
+           "price": "$150.00"
+   },
+   {
+           "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1709114441/STILL/M2S/M2S-BAY13-MSUE-49/M2S-BAY13-MSUE-49_50",
+           "title": "Navy Suede 'Bayard' Derby Shoes",
+           "price": "$325.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1702998012/MODEL/ECOM/W2R/W2R-352V-M20616-42/W2R-352V-M20616-42_1",
+       "title": "Women's Pale Blue Zebra Logo Cotton Sweatshirt",
+       "price": "$150.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1708450215/MODEL/ECOM/W2R/W2R-257T-M21769-02/W2R-257T-M21769-02_1",
+       "title": "Women's Ecru Straight-Leg Jeans",
+       "price": "$225.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712917853/MODEL/ECOM/W1S/W1S-COS04-MLEA-49/W1S-COS04-MLEA-49_1",
+       "title": "Women's Navy Leather 'Cosmo' Sneakers",
+       "price": "$275.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1703158079/MODEL/ECOM/W2R/W2R-739N-M31178-01/W2R-739N-M31178-01_1",
+       "title": "Women's Ecru Crochet 'Sunray' Knitted Vest",
+       "price": "$325.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712136771/MODEL/ECOM/W2R/W2R-312T-M21404-LT/W2R-312T-M21404-LT_1",
+       "title": "Women's Wide Leg Jeans With Frayed Hem",
+       "price": "$250.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712917850/MODEL/ECOM/W1S/W1S-COS02-MLEA-34/W1S-COS02-MLEA-34_1",
+       "title": "Women's White Contrast-Panel 'Cosmo' Sneakers",
+       "price": "$275.00"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_828/v1712846065/STILL/W2R/W2R-592D-M30368-43/W2R-592D-M30368-43_1",
+       "title": "Women's Dusky Blue Shirred Midi Dress",
+       "price": "$425.00"
+   }
+   
+],
+"mens":[
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716204081/SS24/Flatlay%20Products/PAUL-SMITH-LINEN-SUIT-LIGHT-BLUE-MARL-KENSINGTON",
+       "title": "Suits",
+       "link": "https://www.paulsmith.com/mens/suits"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716204080/SS24/Flatlay%20Products/PAUL-SMITH-SHORT-SLEEVE-SHIRT-LINEN-ORCHID",
+       "title": "Shirts",
+       "link": "https://www.paulsmith.com/mens/shirts"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716204076/SS24/Flatlay%20Products/PAUL-SMITH-ARTIST-STRIPE-SAGE-POLO-SHIRT",
+       "title": "Polo Shirts",
+       "link": "https://www.paulsmith.com/mens/polo-shirts"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716204077/SS24/Flatlay%20Products/PAUL-SMITH-BUTTON-UP-JACKET-GREEN1",
+       "title": "Jackets",
+       "link": "https://www.paulsmith.com/mens/coats-jackets"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716204081/SS24/Flatlay%20Products/PAUL-SMITH-WHITE-SIGNTURE-STRIPE-SNEAKERS-LEA",
+       "title": "Sneakers",
+       "link": "https://www.paulsmith.com/mens/shoes/trainers"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716204076/SS24/Flatlay%20Products/PAUL-SMITH-ARTIST-STRIPE-T-SHIRT-BLUE",
+       "title": "T-Shirts",
+       "link": "https://www.paulsmith.com/mens/t-shirts"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1712738934/SS24/THE%20CLASSICS/DISCERNING%20EXEC/5X7/LOOK_14_6607",
+       "title": "The Classics",
+       "link": "https://www.paulsmith.com/the-classics/mens"
+   }
+],
+"women":[
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1715341296/SS24/Flatlay%20Products/PAUL-SMITH-WOMENS-KNITTED-TOP",
+       "title": "Tops",
+       "link": "https://www.paulsmith.com/womens/tops"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1715341293/SS24/Flatlay%20Products/WOMENS-PLATFORM-WHITE-TRAINERS-PAUL-SMITH",
+       "title": "Sneakers",
+       "link": "https://www.paulsmith.com/womens/shoes/trainers"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1715341295/SS24/Flatlay%20Products/WOMENS-PAUL-SMITH-FORAL-PINK-DRESS",
+       "title": "Dresses",
+       "link": "https://www.paulsmith.com/womens/dresses"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1715341290/SS24/Flatlay%20Products/PAUL-SMITH-WOMENS-TAN-BAG",
+       "title": "Accessories",
+       "link": "https://www.paulsmith.com/womens/accessories"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1715341288/SS24/Flatlay%20Products/WOMENS-WHITE-SHIRT-CLASSIC-WOMENS",
+       "title": "Shirts",
+       "link": "https://www.paulsmith.com/womens/shirts"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1695817210/AW23/FLATLAY%20PRODUCTS/WOMENS-SIGNATURE-STRIPE-PJS",
+       "title": "Signature Stripe",
+       "link": "https://www.paulsmith.com/signature-stripe/womens"
+   }
+],
+"tshirt-men":[
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1709287399/SS24/Flatlay%20Products/LAVENDER-WOOL-SUIT-PAUL-SMITH",
+       "title": "Suits",
+       "link": "https://www.paulsmith.com/mens/suits"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716204076/SS24/Flatlay%20Products/PAUL-SMITH-ARTIST-STRIPE-T-SHIRT-BLUE",
+       "title": "T-Shirts",
+       "link": "https://www.paulsmith.com/mens/t-shirts"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1716211509/SS24/Flatlay%20Products/PAUL-SMITH-PANTS-TROUSERS-CLASSICS",
+       "title": "Pants",
+       "link": "https://www.paulsmith.com/mens/trousers"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1711544873/SS24/Flatlay%20Products/MENS-PAUL-SMITH-FLORAL-KNITTED-JUMPER-SWEATER",
+       "title": "Knitwear",
+       "link": "https://www.paulsmith.com/mens/knitwear"
+   },
+   {
+       "img": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_720/v1707132051/SS24/Flatlay%20Products/MENS-SOCKS-BLUE",
+       "title": "Socks",
+       "link": "https://www.paulsmith.com/mens/accessories/socks"
+   }
+],
+
+ "shoes":[
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1708342258/MODEL/ECOM/M2S/M2S-COS16-MLEA-01/M2S-COS16-MLEA-01_1",
+     "title": "White and Light Blue 'Cosmo' Sneakers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1708342256/MODEL/ECOM/M2S/M2S-COS15-MLEA-01/M2S-COS15-MLEA-01_1",
+     "title": "White and Coral 'Cosmo' Sneakers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1679659437/STILL/M2S/M2S-COS09-LLEA-01/M2S-COS09-LLEA-01_30",
+     "title": "White Leather 'Cosmo' Sneakers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1711378888/MODEL/ECOM/M1S/M1S-MBS02-MLEA-02/M1S-MBS02-MLEA-02_1",
+     "title": "Cream Leather 'Malbus' Sneakers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1689271569/MODEL/ECOM/M2S/M2S-NVO03-LNYL-60/M2S-NVO03-LNYL-60_1",
+     "title": "Beige 'Novello' Sneakers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1715243472/MODEL/ECOM/M1S/M1S-DST01-MLEA-01/M1S-DST01-MLEA-01_50",
+     "title": "White Leather 'Destry' Trainers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1713772936/STILL/M1S/M1S-EIG26-MSUE-70/M1S-EIG26-MSUE-70_50",
+     "title": "Grey Leather Multi Suede 'Eighties' Trainers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1711476120/STILL/M1S/M1S-HAN74-MMOLV-02/M1S-HAN74-MMOLV-02_50",
+     "title": "Ecru Leather 'Hansen' Trainers"
+   },
+   {
+     "img": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1713772925/STILL/M1S/M1S-EFV09-MPLY-07/M1S-EFV09-MPLY-07_50",
+     "title": "Sand 'Eighty Five' Trainers"
+   }
+ ]
+ 
+
+}
+
+
